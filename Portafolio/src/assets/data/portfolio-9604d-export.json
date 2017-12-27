@@ -1,0 +1,18 @@
+{
+  "equipo" : [ {
+    "nombre" : "Adria Newshore",
+    "subtitulo" : "Creando nuestra base de datos en Firebase",
+    "twitter" : "@newshore",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-9604d.appspot.com/o/team-1.jpg?alt=media&token=d8780175-8811-4c04-9ca3-e4a96faea22b"
+  }, {
+    "nombre" : "Otro Nombre",
+    "subtitulo" : "subtitulo",
+    "twitter" : "@twitter",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-9604d.appspot.com/o/team-2.jpg?alt=media&token=f578974a-afbd-4096-bd3b-6f1b4ea94bdf"
+  }, {
+    "nombre" : "Pepito Palotes",
+    "subtitulo" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+    "twitter" : "palotes",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/portfolio-9604d.appspot.com/o/team-3.jpg?alt=media&token=865c6789-2726-40ba-a9c6-35ab0d642dc8"
+  } ]
+}
