@@ -23,11 +23,12 @@ export class ProductosService {
       .subscribe ( res => {
 
         console.log ( res.json() );
-        this.cargando = false;
-        this.productos = res.json();
-      }
 
-      )
+        //setTimeout (()=>{
+          this.cargando = false;
+          this.productos = res.json();
+        //},1500 )
+        })
 
 
   }
